@@ -1,5 +1,5 @@
 # Leetcode
-----
+
 ### LeetCode Algorithm
 |#|Title|Solution|Difficulty|
 |:------:|:---------------------------|:---------------:|:----------:|
