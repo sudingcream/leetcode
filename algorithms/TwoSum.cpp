@@ -4,7 +4,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int sum = 0; vector<int> result;
+        int sum = 0; 
         for(int i=0; i<nums.size();i++){
            sum = nums[i] + nums[i+1];
             if(sum == target){
