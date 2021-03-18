@@ -8,3 +8,4 @@
 |38|Count and Say|C++| Easy |
 |1|Two Sum|C++, Swift| Easy |
 |2|Add Two Numbers|C++, Swift| Medium |
+|48|Rotate Image|C++, Swift| Medium |
