@@ -10,4 +10,6 @@
 |2|Add Two Numbers|C++| Medium |
 |48|Rotate Image|C++| Medium |
 |49|Group Anagrams|Swift| Medium |
+|53|Maximum Subarray|C++, Swift| Easy |
+
 
