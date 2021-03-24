@@ -1,12 +1,12 @@
 class Solution {
     func maxSubArray(_ nums: [Int]) -> Int {
-        var sum = nums[0];
+        var m = 0
+        var result = Int.min
+        for i in 0..<nums.count {
+            m = max(nums[i], nums[i] + m)
+            result = max(result, m)
+        }
         
-        for i in 1..<nums.count{
-            sum += nums[i] + nums[i-1]
-            sum = sum > nums[i] ? sum : nums[i]
-        }// end for 
-        return sum
-    
+        
     }// end func
 }
