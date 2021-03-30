@@ -12,4 +12,5 @@
 |49|Group Anagrams|Swift| Medium |
 |53|Maximum Subarray|C++, Swift| Easy |
 |133|Clone Graph|C++, Swift| Medium |
-
+|70|Climbing Stairs|C++| Easy |
+|64|Minimum Path Sum|C++| Medium |
