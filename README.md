@@ -15,3 +15,4 @@
 |70|Climbing Stairs|C++| Easy |
 |64|Minimum Path Sum|C++| Medium |
 |72|Edit Distance|C++| Hard |
+|75|Sort Color|C++| Medium |
