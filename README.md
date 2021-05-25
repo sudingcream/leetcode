@@ -16,3 +16,4 @@
 |64|Minimum Path Sum|C++| Medium |
 |72|Edit Distance|C++| Hard |
 |75|Sort Color|C++| Medium |
+|121|Best Time to Buy and Sell Stock|C++| Easy |
