@@ -17,3 +17,4 @@
 |72|Edit Distance|C++| Hard |
 |75|Sort Color|C++| Medium |
 |121|Best Time to Buy and Sell Stock|C++| Easy |
+|4|Median of Two Sorted Arrays|C++| Hard |
